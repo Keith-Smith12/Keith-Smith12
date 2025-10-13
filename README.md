@@ -1,9 +1,7 @@
 # Olá, eu sou Keith Smith!
 
 <div align="center">
-  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Software+Developer;Full+Stack+Developer;Mobile+Developer;Apaixonado+por+Tecnologia!)
-</div>
+
 
 ---
 
@@ -78,4 +76,5 @@ Sou **Stranger007**, desenvolvedor de software apaixonado por criar soluções i
   **"Code is poetry written in logic"** 💻✨
 
 </div>
+
 
