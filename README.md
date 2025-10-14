@@ -2,7 +2,7 @@
 <div align="center">
   
 # 👋 Olá, eu sou **Keith Smith!**
-### 💻 Full Stack Developer | 📱 Mobile Enthusiast | 🌍 Tech Explorer
+### Full Stack Developer | Mobile Enthusiast | Tech Explorer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Mobile+App+Creator;Open+Source+Contributor;Always+Learning🚀" alt="Typing SVG" />
 
@@ -12,38 +12,38 @@
 
 ---
 
-## 👨‍💻 Sobre Mim
+## Sobre Mim
 
 Sou **Keith Smith (Stranger007)**, um desenvolvedor apaixonado por transformar ideias em **soluções inteligentes e escaláveis**.  
 Amo desafios e acredito que **código é arte funcional**.  
 
-🚀 Atualmente:
+Atualmente:
 - Desenvolvendo aplicações **Web e Mobile**
 - Explorando novas stacks modernas (TypeScript, Next.js, React Native)
 - Focado em **performance, escalabilidade e UX**
 
-🎯 **Objetivo:** Criar experiências digitais que **impactam e inspiram**.
+**Objetivo:** Criar experiências digitais que **impactam e inspiram**.
 
 ---
 
-## 🧠 Stack Tecnológica
+## Stack Tecnológica
 
-### ⚙️ Backend Development
+### Backend Development
 - PHP  
 - Laravel  
 - Node.js  
 
-### 🎨 Frontend Development
+### Frontend Development
 - React  
 - Next.js  
 - TypeScript  
 
-### 📱 Mobile Development
+### Mobile Development
 - React Native  
 
 ---
 
-## 🛠️ Ferramentas & Tecnologias
+## Ferramentas & Tecnologias
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,react,nextjs,ts,reactnative,mysql,postgres,mongodb,git,docker,vscode,figma&theme=dark" />
@@ -51,7 +51,7 @@ Amo desafios e acredito que **código é arte funcional**.
 
 ---
 
-## 📊 Estatísticas GitHub
+## Estatísticas GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Keith-Smith12&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
@@ -68,7 +68,7 @@ Amo desafios e acredito que **código é arte funcional**.
 
 ---
 
-## 🎯 Objetivos 2025
+## Objetivos 2025
 
 ```javascript
 const goals2025 = {
@@ -78,3 +78,4 @@ const goals2025 = {
   community: "Compartilhar conhecimento e mentorar novos devs",
   learning: "Explorar tecnologias emergentes como AI e IoT"
 };
+
