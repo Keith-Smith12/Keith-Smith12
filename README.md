@@ -1,81 +1,98 @@
-<!-- HEADER -->
+# Keith Smith
+## Full Stack Developer
+
 <div align="center">
-  
-# 👋 Olá, eu sou **Keith Smith!**
-### Full Stack Developer | Mobile Enthusiast | Tech Explorer
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Mobile+App+Creator;Open+Source+Contributor;Always+Learning🚀" alt="Typing SVG" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=header"/>
 </div>
 
 ---
 
-## Sobre Mim
+## Professional Summary
 
-Sou **Keith Smith (Stranger007)**, um desenvolvedor apaixonado por transformar ideias em **soluções inteligentes e escaláveis**.  
-Amo desafios e acredito que **código é arte funcional**.  
+Experienced Full Stack Developer with expertise in modern web and mobile technologies. Specialized in building scalable applications using React.js, Next.js, Node.js, and Laravel. Currently expanding knowledge in Python and data science applications.
 
-Atualmente:
-- Desenvolvendo aplicações **Web e Mobile**
-- Explorando novas stacks modernas (TypeScript, Next.js, React Native)
-- Focado em **performance, escalabilidade e UX**
+### Core Competencies
+- **Frontend Development**: React.js, Next.js, TypeScript
+- **Backend Development**: Node.js, PHP, Laravel
+- **Mobile Development**: React Native
+- **Database Management**: SQL, MySQL, PostgreSQL, MongoDB
+- **Development Tools**: GitHub, Trello, Postman, Docker
 
-**Objetivo:** Criar experiências digitais que **impactam e inspiram**.
+### Current Focus
+- Developing enterprise-grade web and mobile applications
+- Implementing clean architecture patterns and best practices
+- Expanding expertise in Python and data science
+- Contributing to open-source projects and technical communities
 
 ---
 
-## Stack Tecnológica
+## Technical Stack
 
 ### Backend Development
-- PHP  
-- Laravel  
-- Node.js  
+- **Node.js** - JavaScript runtime for server-side development
+- **PHP** - Web programming language
+- **Laravel** - Elegant PHP framework
+- **SQL** - Database query language
 
 ### Frontend Development
-- React  
-- Next.js  
-- TypeScript  
+- **React.js** - JavaScript library for building user interfaces
+- **Next.js** - React framework for production
+- **TypeScript** - JavaScript with static typing
 
 ### Mobile Development
-- React Native  
+- **React Native** - Cross-platform mobile development framework
+
+### Currently Learning
+- **Python** - Versatile programming language for data science and backend
 
 ---
 
-## Ferramentas & Tecnologias
+## Development Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,react,nextjs,ts,reactnative,mysql,postgres,mongodb,git,docker,vscode,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,react,nextjs,ts,reactnative,python,mysql,postgres,mongodb,git,docker,vscode&theme=dark" />
 </p>
 
----
-
-## Estatísticas GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Keith-Smith12&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keith-Smith12&layout=compact&langs_count=8&theme=radical&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Keith-Smith12&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Keith-Smith12&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
+### Project Management & Collaboration
+- **GitHub** - Version control and collaboration
+- **Trello** - Project management and task organization
+- **Postman** - API testing and documentation
 
 ---
 
-## Objetivos 2025
+## GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Keith-Smith12&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keith-Smith12&layout=compact&langs_count=8&theme=dark&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Keith-Smith12&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Keith-Smith12&theme=dark&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+## Professional Goals 2025
 
 ```javascript
-const goals2025 = {
-  openSource: "Contribuir ativamente para projetos da comunidade",
-  mobile: "Desenvolver apps inovadores com React Native",
-  architecture: "Dominar padrões de arquitetura escalável",
-  community: "Compartilhar conhecimento e mentorar novos devs",
-  learning: "Explorar tecnologias emergentes como AI e IoT"
+const professionalGoals2025 = {
+  python: "Master Python for data science and backend development",
+  mobile: "Develop innovative mobile applications with React Native",
+  fullstack: "Deepen expertise in Node.js and Laravel ecosystems",
+  architecture: "Implement scalable architecture patterns and clean code principles",
+  openSource: "Contribute actively to open-source projects",
+  learning: "Explore emerging technologies in AI/ML and cloud computing",
+  projects: "Build portfolio projects showcasing technical expertise"
 };
+```
 
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
+</div>
