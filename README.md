@@ -21,12 +21,6 @@ Specialized in **Laravel**, **Flutter**, and fintech products for emerging marke
 
 ### Stack
 
-| Backend | Frontend | Mobile | Infra & Data |
-|---|---|---|---|
-| Laravel · Node.js · PHP · Python | React.js · Next.js · TypeScript | Flutter · React Native | Docker · MySQL · PostgreSQL · MongoDB |
-
-<br/>
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,python,react,nextjs,ts,flutter,docker,mysql,postgres,mongodb,git&theme=light&perline=13" />
 </div>
