@@ -1,111 +1,98 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=f7f5f0&fontColor=111111&height=140&section=header&text=Keith%20Smith&fontSize=52&fontAlignY=55&desc=Full%20Stack%20Developer%20·%20Angola&descAlignY=78&descSize=13&animation=fadeIn"/>
-</div>
 
-<br/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=13&duration=3000&pause=1000&color=AAAAAA&center=true&vCenter=true&width=500&lines=Laravel+%7C+Flutter+%7C+Fintech;Building+for+emerging+markets;Clean+architecture+%7C+Scalable+systems;ProxyPay+%C2%B7+EMIS+%C2%B7+Angola" alt="Typing SVG" />
-</div>
-
-<br/>
-
----
-
-### About
-
-Building scalable web and mobile applications with a focus on clean architecture.
-Specialized in **Laravel**, **Flutter**, and fintech products for emerging markets.
-Currently building **FinSave**, **Lotador** and **Nzila**.
-
----
-
-### Repositories
-
-<div align="center">
-
-<!-- Marquee carrossel infinito — funciona no GitHub README -->
-<a href="https://github.com/Keith-Smith12?tab=repositories">
-<img src="https://img.shields.io/static/v1?label=finsave&message=PHP&color=7B68EE&style=flat-square"/>
-</a>
-&nbsp;
-<a href="https://github.com/Keith-Smith12?tab=repositories">
-<img src="https://img.shields.io/static/v1?label=finsave-flutter&message=Dart&color=00B4D8&style=flat-square"/>
-</a>
-&nbsp;
-<a href="https://github.com/Keith-Smith12?tab=repositories">
-<img src="https://img.shields.io/static/v1?label=lotador&message=Dart&color=00B4D8&style=flat-square"/>
-</a>
-&nbsp;
-<a href="https://github.com/Keith-Smith12?tab=repositories">
-<img src="https://img.shields.io/static/v1?label=lotador-backend&message=PHP&color=7B68EE&style=flat-square"/>
-</a>
-&nbsp;
-<a href="https://github.com/Keith-Smith12?tab=repositories">
-<img src="https://img.shields.io/static/v1?label=nzila&message=PHP&color=7B68EE&style=flat-square"/>
-</a>
-&nbsp;
-<a href="https://github.com/Keith-Smith12?tab=repositories">
-<img src="https://img.shields.io/static/v1?label=controlle&message=PHP&color=7B68EE&style=flat-square"/>
-</a>
-&nbsp;
-<a href="https://github.com/Keith-Smith12?tab=repositories">
-<img src="https://img.shields.io/static/v1?label=baobabay&message=TypeScript&color=3B82F6&style=flat-square"/>
-</a>
-&nbsp;
-<a href="https://github.com/Keith-Smith12?tab=repositories">
-<img src="https://img.shields.io/static/v1?label=inaarees&message=TypeScript&color=3B82F6&style=flat-square"/>
-</a>
-&nbsp;
-<a href="https://github.com/Keith-Smith12?tab=repositories">
-<img src="https://img.shields.io/static/v1?label=hr-module&message=TypeScript&color=3B82F6&style=flat-square"/>
-</a>
+```
+╔══════════════════════════════════════════════════════════════╗
+║          T H E   K E I T H   S M I T H   G A Z E T T E      ║
+║     Building for emerging markets, one commit at a time      ║
+╠══════════════════════════════════════════════════════════════╣
+║  Luanda, Angola          Full Stack Developer       Est. 2026║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
-<br/>
-
-<!-- Carrossel animado via SVG — suportado pelo GitHub -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,python,react,nextjs,ts,flutter,docker,mysql,postgres,mongodb,git&theme=light&perline=13" />
+<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=12&duration=3000&pause=800&color=888888&center=true&vCenter=true&width=600&lines=finsave+%E2%80%94+PHP+%7C+lotador+%E2%80%94+Dart+%7C+nzila+%E2%80%94+PHP+%7C+controlle+%E2%80%94+PHP;baobabay+%E2%80%94+TypeScript+%7C+inaarees+%E2%80%94+TypeScript+%7C+hr-module+%E2%80%94+TypeScript;Laravel+%7C+Flutter+%7C+Next.js+%7C+MySQL+%7C+ProxyPay+%7C+EMIS" alt="ticker" />
 </div>
 
 ---
 
-### Stack
+<table width="100%">
+<tr>
+<td width="65%" valign="top">
 
-<div align="center">
+### Developer builds fintech infrastructure for Angola's digital economy
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+*FinSave, Lotador and Nzila mark an ambitious effort to close the gap between African markets and modern software.*
 
-</div>
+**By Keith Smith · Full Stack · Luanda**
 
 ---
 
-### GitHub Stats
+**A** full-stack developer based in Luanda has spent the past year quietly shipping products that address real gaps in Angola's digital infrastructure — from personal finance to ride-hailing and school management.
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Keith-Smith12&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&bg_color=f7f5f0&title_color=aaaaaa&text_color=aaaaaa&icon_color=cccccc"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keith-Smith12&layout=compact&langs_count=6&theme=default&hide_border=true&bg_color=f7f5f0&title_color=aaaaaa&text_color=aaaaaa"/>
-</div>
+**FinSave**, a multi-currency SaaS targeting AOA, USD and EUR users, brings Stripe subscriptions, WebSocket real-time sync and ProxyPay integration to a market largely underserved by global fintech tools.
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Keith-Smith12&theme=default&hide_border=true&background=f7f5f0&ring=cccccc&fire=cccccc&currStreakLabel=aaaaaa&sideLabels=aaaaaa&dates=cccccc&currStreakNum=111111&sideNums=aaaaaa"/>
-</div>
+**Lotador**, a ride-hailing platform built entirely in Flutter and Laravel, introduces a local alternative to the gaps left by global operators in the Angolan transport market.
+
+**Nzila**, a multi-tenant school management system, handles academic calendars, financial modules and communication layers for Angolan institutions.
+
+---
+
+**— Technologies on Record —**
+
+![Laravel](https://img.shields.io/badge/Laravel-black?style=flat-square&logo=laravel)
+![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
+![Flutter](https://img.shields.io/badge/Flutter-black?style=flat-square&logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-black?style=flat-square&logo=dart)
+![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript)
+![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=nodedotjs)
+![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql)
+![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)
+![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
+
+</td>
+<td width="3%"></td>
+<td width="32%" valign="top">
+
+### Dispatches
+
+---
+
+**Lotador ships driver + passenger apps**
+Flutter-based ride-hailing suite under `com.lotador`. Laravel backend with real-time tracking.
+
+---
+
+**FinSave adds Reverb WebSockets**
+Laravel Reverb integration brings live balance updates across Free, Pro and Premium tiers.
+
+---
+
+**Nzila v2 database model complete**
+Multi-tenant schema covering academic, financial and communication modules.
+
+---
+
+**Freelance on Upwork**
+Active fintech and SaaS contracts. Specialised integrations with ProxyPay and EMIS payment rails.
+
+---
+
+**— Github —**
+
+[github.com/Keith-Smith12](https://github.com/Keith-Smith12)
+`Laravel · Flutter · Next.js`
+`Fintech · SaaS · Angola`
+
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
-  <sub>Keith Smith · 2026</sub>
+  <sub>Keith Smith · 2026 &nbsp;·&nbsp; Full Stack Developer · Angola &nbsp;·&nbsp; github.com/Keith-Smith12</sub>
 </div>
