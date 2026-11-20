@@ -1,19 +1,17 @@
 ```java
 @RestController
-public class Apresentacao {
+public class Introduction {
 
-    @GetMapping("/oi")
-    public String oi() {
-        return "Oi! Sou o Keith Smith, Software Developer.";
+    @GetMapping("/hello")
+    public String hello() {
+        return "Hello! I'm Keith Smith, Software Developer.";
     }
 }
 ```
 
-
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=12&duration=3000&pause=800&color=888888&center=true&vCenter=true&width=600&lines=PHP+%7C+Java+%7C+Dart+%7C+TypeScript+%7C+Python;Laravel+%7C+Spring+%7C+Flutter+%7C+Next.js+%7C+React;GitHub+%7C+CI%2FCD+%7C+Docker+%7C+MySQL+%7C+PostgreSQL+%7C+Node.js" alt="ticker" />
+<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=14&duration=3000&pause=800&color=888888&center=true&vCenter=true&width=700&lines=PHP+%7C+Java+%7C+Dart+%7C+TypeScript+%7C+Python;Laravel+%7C+Spring+%7C+Flutter+%7C+Next.js+%7C+React;GitHub+%7C+CI%2FCD+%7C+Docker+%7C+MySQL+%7C+PostgreSQL+%7C+Node.js" alt="ticker" />
 </div>
-
 
 **— Technologies on Record —**
 
