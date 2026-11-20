@@ -15,19 +15,25 @@ public class Introduction {
 
 **— Technologies on Record —**
 
-![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
-![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=openjdk)
-![Dart](https://img.shields.io/badge/Dart-black?style=flat-square&logo=dart)
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript)
-![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
-![Laravel](https://img.shields.io/badge/Laravel-black?style=flat-square&logo=laravel)
-![Spring](https://img.shields.io/badge/Spring-black?style=flat-square&logo=spring)
-![Flutter](https://img.shields.io/badge/Flutter-black?style=flat-square&logo=flutter)
-![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs)
-![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=nodedotjs)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-black?style=flat-square&logo=githubactions)
-![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)
-![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql)
+<img src="https://skillicons.dev/icons?i=php,java,dart,ts,py,laravel,spring,flutter,react,nextjs,nodejs,github,githubactions,docker,mysql,postgres&perline=8" width="560" alt="technologies" />
+
+**— Technologies on Record —**
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="56" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="56" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="56" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="56" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="56" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="56" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="56" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="56" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="56" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="56" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="56" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="56" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="56" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="56" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="56" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="56" />
+</p>
